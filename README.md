@@ -1,1 +1,1 @@
-# GIT-DEMO
+print
